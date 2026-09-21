@@ -502,7 +502,8 @@
       "js-yaml": "^4.3.2"
     },
     "@openai/codex-security": {
-      "smol-toml": "^1.8.0"
+      "smol-toml": "^1.8.0",
+      "extract-zip": "npm:@electron-internal/extract-zip@1.0.5"
     },
     "jsdom": {
       "undici": "^7.29.0"
